@@ -1,7 +1,7 @@
 %_________________________________________________________________________________
 % Jaya
 %
-% Modifief by Mahamed Omran to work with IEEE CEC 2011, 8-Sep-2020.
+% Modified by Mahamed Omran to work with IEEE CEC 2011, 8-Sep-2020.
 %____________________________________________________________________________________
 
 function [best_f, ccurve, dcurve]=EnSO_CEC2011(pop_size,maxFEs,lb,ub,dim, fun,opt_f, FuncAddr, b)
